@@ -1,0 +1,621 @@
+2025-01-28 00:01:45,480 INFO [main]	register protocol:1 success
+2025-01-28 00:01:45,652 INFO [main]	register protocol:29 success
+2025-01-28 00:01:45,661 INFO [main]	register protocol:4 success
+2025-01-28 00:01:45,673 INFO [main]	register protocol:3 success
+2025-01-28 00:01:45,676 INFO [main]	register protocol:31 success
+2025-01-28 00:01:45,677 INFO [main]	register protocol:28 success
+2025-01-28 00:01:45,679 INFO [main]	register protocol:32 success
+2025-01-28 00:01:45,680 INFO [main]	register protocol:33 success
+2025-01-28 00:01:45,681 INFO [main]	register protocol:30 success
+2025-01-28 00:01:45,682 INFO [main]	register load balance factory:RandomLoadBalanceFactory success
+2025-01-28 00:01:45,682 INFO [main]	register load balance factory:RoundRobinLoadBalanceFactory success
+2025-01-28 00:01:45,683 INFO [main]	register load balance factory:WeightLoadBalanceFactory success
+2025-01-28 00:01:45,684 INFO [main]	register load balance factory:FairLoadBalanceFactory success
+2025-01-28 00:01:45,710 INFO [main]	create thread:server-work-thread-1
+2025-01-28 00:01:45,710 INFO [main]	create thread:server-work-thread-2
+2025-01-28 00:01:45,715 INFO [main]	create thread:server-work-thread-3
+2025-01-28 00:01:45,720 INFO [main]	create thread:server-work-thread-4
+2025-01-28 00:01:45,725 INFO [main]	create thread:server-work-thread-5
+2025-01-28 00:01:45,725 INFO [main]	create thread:server-work-thread-6
+2025-01-28 00:01:45,726 INFO [main]	create thread:server-work-thread-7
+2025-01-28 00:01:45,727 INFO [main]	create thread:server-work-thread-8
+2025-01-28 00:01:45,730 INFO [main]	create thread:server-work-thread-9
+2025-01-28 00:01:45,731 INFO [main]	create thread:server-work-thread-10
+2025-01-28 00:01:45,731 INFO [main]	create thread:server-work-thread-11
+2025-01-28 00:01:45,734 INFO [main]	create thread:server-work-thread-12
+2025-01-28 00:01:45,734 INFO [main]	create thread:server-work-thread-13
+2025-01-28 00:01:45,734 INFO [main]	create thread:server-work-thread-14
+2025-01-28 00:01:45,735 INFO [main]	create thread:server-work-thread-15
+2025-01-28 00:01:45,736 INFO [main]	create thread:server-work-thread-16
+2025-01-28 00:01:45,736 INFO [main]	create thread:server-work-thread-17
+2025-01-28 00:01:45,736 INFO [main]	create thread:server-work-thread-18
+2025-01-28 00:01:45,742 INFO [main]	create thread:server-work-thread-19
+2025-01-28 00:01:45,743 INFO [main]	create thread:server-work-thread-20
+2025-01-28 00:01:45,850 INFO [main]	use jdk nio event mode
+2025-01-28 00:01:45,926 INFO [main]	create thread:timeout-timer-thread-1
+2025-01-28 00:01:45,971 WARN [main]	meta file not exist, name=./data/snapshot/metadata
+2025-01-28 00:01:46,230 INFO [main]	register service, serviceName=com.github.raftimpl.raft.service.RaftConsensusService, methodName=appendEntries
+2025-01-28 00:01:46,232 INFO [main]	register service, serviceName=com.github.raftimpl.raft.service.RaftConsensusService, methodName=preVote
+2025-01-28 00:01:46,232 INFO [main]	register service, serviceName=com.github.raftimpl.raft.service.RaftConsensusService, methodName=requestVote
+2025-01-28 00:01:46,235 INFO [main]	register service, serviceName=com.github.raftimpl.raft.service.RaftConsensusService, methodName=installSnap
+2025-01-28 00:01:46,241 INFO [main]	register service, serviceName=com.github.raftimpl.raft.service.RaftConsensusService, methodName=getLeaderCommitIndex
+2025-01-28 00:01:46,255 INFO [main]	register service, serviceName=com.github.raftimpl.raft.service.RaftClientService, methodName=getConfig
+2025-01-28 00:01:46,258 INFO [main]	register service, serviceName=com.github.raftimpl.raft.service.RaftClientService, methodName=addStoragePeers
+2025-01-28 00:01:46,263 INFO [main]	register service, serviceName=com.github.raftimpl.raft.service.RaftClientService, methodName=getNowLeader
+2025-01-28 00:01:46,268 INFO [main]	register service, serviceName=com.github.raftimpl.raft.service.RaftClientService, methodName=removeStoragePeers
+2025-01-28 00:01:46,277 INFO [main]	register service, serviceName=com.github.raftimpl.raft.example.server.service.ExampleService, methodName=get
+2025-01-28 00:01:46,280 INFO [main]	register service, serviceName=com.github.raftimpl.raft.example.server.service.ExampleService, methodName=set
+2025-01-28 00:01:46,358 INFO [main]	create thread:server-acceptor-thread-1
+2025-01-28 00:01:46,372 INFO [Thread-1]	Brpc do clean work...
+2025-01-28 00:01:46,373 INFO [Thread-1]	invoke shutdownGlobalThreadPools
+2025-01-28 00:02:32,984 INFO [main]	register protocol:1 success
+2025-01-28 00:02:33,210 INFO [main]	register protocol:29 success
+2025-01-28 00:02:33,223 INFO [main]	register protocol:4 success
+2025-01-28 00:02:33,244 INFO [main]	register protocol:3 success
+2025-01-28 00:02:33,248 INFO [main]	register protocol:31 success
+2025-01-28 00:02:33,249 INFO [main]	register protocol:28 success
+2025-01-28 00:02:33,257 INFO [main]	register protocol:32 success
+2025-01-28 00:02:33,263 INFO [main]	register protocol:33 success
+2025-01-28 00:02:33,263 INFO [main]	register protocol:30 success
+2025-01-28 00:02:33,268 INFO [main]	register load balance factory:RandomLoadBalanceFactory success
+2025-01-28 00:02:33,269 INFO [main]	register load balance factory:RoundRobinLoadBalanceFactory success
+2025-01-28 00:02:33,269 INFO [main]	register load balance factory:WeightLoadBalanceFactory success
+2025-01-28 00:02:33,270 INFO [main]	register load balance factory:FairLoadBalanceFactory success
+2025-01-28 00:02:33,306 INFO [main]	create thread:server-work-thread-1
+2025-01-28 00:02:33,312 INFO [main]	create thread:server-work-thread-2
+2025-01-28 00:02:33,313 INFO [main]	create thread:server-work-thread-3
+2025-01-28 00:02:33,313 INFO [main]	create thread:server-work-thread-4
+2025-01-28 00:02:33,315 INFO [main]	create thread:server-work-thread-5
+2025-01-28 00:02:33,316 INFO [main]	create thread:server-work-thread-6
+2025-01-28 00:02:33,319 INFO [main]	create thread:server-work-thread-7
+2025-01-28 00:02:33,320 INFO [main]	create thread:server-work-thread-8
+2025-01-28 00:02:33,322 INFO [main]	create thread:server-work-thread-9
+2025-01-28 00:02:33,324 INFO [main]	create thread:server-work-thread-10
+2025-01-28 00:02:33,324 INFO [main]	create thread:server-work-thread-11
+2025-01-28 00:02:33,326 INFO [main]	create thread:server-work-thread-12
+2025-01-28 00:02:33,329 INFO [main]	create thread:server-work-thread-13
+2025-01-28 00:02:33,330 INFO [main]	create thread:server-work-thread-14
+2025-01-28 00:02:33,332 INFO [main]	create thread:server-work-thread-15
+2025-01-28 00:02:33,333 INFO [main]	create thread:server-work-thread-16
+2025-01-28 00:02:33,333 INFO [main]	create thread:server-work-thread-17
+2025-01-28 00:02:33,335 INFO [main]	create thread:server-work-thread-18
+2025-01-28 00:02:33,336 INFO [main]	create thread:server-work-thread-19
+2025-01-28 00:02:33,336 INFO [main]	create thread:server-work-thread-20
+2025-01-28 00:02:33,439 INFO [main]	use jdk nio event mode
+2025-01-28 00:02:33,478 INFO [main]	create thread:timeout-timer-thread-1
+2025-01-28 00:02:33,493 WARN [main]	meta file not exist, name=./data/snapshot/metadata
+2025-01-28 00:02:33,737 INFO [main]	register service, serviceName=com.github.raftimpl.raft.service.RaftConsensusService, methodName=appendEntries
+2025-01-28 00:02:33,739 INFO [main]	register service, serviceName=com.github.raftimpl.raft.service.RaftConsensusService, methodName=preVote
+2025-01-28 00:02:33,741 INFO [main]	register service, serviceName=com.github.raftimpl.raft.service.RaftConsensusService, methodName=requestVote
+2025-01-28 00:02:33,745 INFO [main]	register service, serviceName=com.github.raftimpl.raft.service.RaftConsensusService, methodName=installSnap
+2025-01-28 00:02:33,746 INFO [main]	register service, serviceName=com.github.raftimpl.raft.service.RaftConsensusService, methodName=getLeaderCommitIndex
+2025-01-28 00:02:33,760 INFO [main]	register service, serviceName=com.github.raftimpl.raft.service.RaftClientService, methodName=getConfig
+2025-01-28 00:02:33,762 INFO [main]	register service, serviceName=com.github.raftimpl.raft.service.RaftClientService, methodName=getNowLeader
+2025-01-28 00:02:33,766 INFO [main]	register service, serviceName=com.github.raftimpl.raft.service.RaftClientService, methodName=addStoragePeers
+2025-01-28 00:02:33,770 INFO [main]	register service, serviceName=com.github.raftimpl.raft.service.RaftClientService, methodName=removeStoragePeers
+2025-01-28 00:02:33,778 INFO [main]	register service, serviceName=com.github.raftimpl.raft.example.server.service.ExampleService, methodName=get
+2025-01-28 00:02:33,781 INFO [main]	register service, serviceName=com.github.raftimpl.raft.example.server.service.ExampleService, methodName=set
+2025-01-28 00:02:33,832 INFO [main]	create thread:server-acceptor-thread-1
+2025-01-28 00:02:33,840 INFO [main]	server started on port=8052 success
+2025-01-28 00:02:33,848 INFO [main]	create thread:fairStrategy-timer-thread-1
+2025-01-28 00:02:33,849 INFO [main]	create thread:client-work-thread-1
+2025-01-28 00:02:33,849 INFO [main]	create thread:client-work-thread-2
+2025-01-28 00:02:33,916 INFO [main]	create thread:client-io-thread-1
+2025-01-28 00:02:33,937 INFO [main]	create thread:client-io-thread-2
+2025-01-28 00:02:34,058 INFO [main]	create thread:fairStrategy-timer-thread-1
+2025-01-28 00:02:34,064 INFO [main]	create thread:client-work-thread-1
+2025-01-28 00:02:34,066 INFO [main]	create thread:client-work-thread-2
+2025-01-28 00:02:34,068 INFO [main]	create thread:client-io-thread-1
+2025-01-28 00:02:34,074 WARN [main]	init min idle object pool failed
+2025-01-28 00:02:34,415 INFO [server-acceptor-thread-1]	create thread:server-io-thread-1
+2025-01-28 00:02:34,416 INFO [server-acceptor-thread-1]	create thread:server-io-thread-2
+2025-01-28 00:02:34,417 INFO [server-acceptor-thread-1]	create thread:server-io-thread-3
+2025-01-28 00:02:34,419 INFO [server-acceptor-thread-1]	create thread:server-io-thread-4
+2025-01-28 00:02:34,420 INFO [server-acceptor-thread-1]	create thread:server-io-thread-5
+2025-01-28 00:02:34,421 INFO [server-acceptor-thread-1]	create thread:server-io-thread-6
+2025-01-28 00:02:34,422 INFO [server-acceptor-thread-1]	create thread:server-io-thread-7
+2025-01-28 00:02:34,423 INFO [server-acceptor-thread-1]	create thread:server-io-thread-8
+2025-01-28 00:02:38,964 INFO [client-io-thread-2]	create thread:invalid-channel-callback-thread-1
+2025-01-28 00:02:40,778 INFO [server-acceptor-thread-1]	create thread:server-io-thread-9
+2025-01-28 00:02:40,821 INFO [server-work-thread-1]	preVote request from server 3 in term 2 (my term is 1), granted=true
+2025-01-28 00:02:40,850 INFO [server-work-thread-3]	new segment meta info, currentTerm=3, votedFor=0, firstLogIndex=1
+2025-01-28 00:02:40,853 INFO [server-work-thread-3]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:02:40,853 INFO [server-work-thread-3]	RequestVote request from server 3 in term 3 (my term is 3), granted=true
+2025-01-28 00:02:40,867 INFO [server-acceptor-thread-1]	create thread:server-io-thread-10
+2025-01-28 00:02:40,992 INFO [server-work-thread-2]	new leaderId=3, conf={"servers": [{"server_id": 1,"endpoint": {"host": "127.0.0.1","port": 8051}},{"server_id": 2,"endpoint": {"host": "127.0.0.1","port": 8052}},{"server_id": 3,"endpoint": {"host": "127.0.0.1","port": 8053}}]}
+2025-01-28 00:02:40,993 INFO [server-work-thread-2]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:02:41,362 INFO [server-work-thread-5]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:02:41,862 INFO [server-work-thread-5]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:02:42,362 INFO [server-work-thread-6]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:02:42,863 INFO [server-work-thread-6]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:02:43,363 INFO [server-work-thread-7]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:02:43,866 INFO [server-work-thread-8]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:02:44,364 INFO [server-work-thread-9]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:02:44,865 INFO [server-work-thread-5]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:02:45,367 INFO [server-work-thread-10]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:02:45,866 INFO [server-work-thread-11]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:02:46,365 INFO [server-work-thread-5]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:02:46,865 INFO [server-work-thread-5]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:02:47,366 INFO [server-work-thread-9]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:02:47,867 INFO [server-work-thread-5]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:02:48,369 INFO [server-work-thread-5]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:02:48,867 INFO [server-work-thread-12]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:02:49,369 INFO [server-work-thread-13]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:02:49,867 INFO [server-work-thread-14]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:02:50,368 INFO [server-work-thread-15]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:02:50,868 INFO [server-work-thread-16]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:02:51,368 INFO [server-work-thread-17]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:02:51,869 INFO [server-work-thread-18]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:02:52,368 INFO [server-work-thread-19]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:02:52,869 INFO [server-work-thread-20]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:02:53,370 INFO [server-work-thread-20]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:02:53,869 INFO [server-work-thread-1]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:02:54,370 INFO [server-work-thread-1]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:02:54,871 INFO [server-work-thread-19]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:02:55,370 INFO [server-work-thread-18]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:02:55,871 INFO [server-work-thread-3]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:02:56,372 INFO [server-work-thread-4]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:02:56,872 INFO [server-work-thread-2]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:02:57,374 INFO [server-work-thread-7]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:02:57,871 INFO [server-work-thread-8]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:02:58,372 INFO [server-work-thread-8]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:02:58,872 INFO [server-work-thread-12]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:02:59,373 INFO [server-work-thread-5]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:02:59,875 INFO [server-work-thread-6]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:00,375 INFO [server-work-thread-17]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:00,874 INFO [server-work-thread-10]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:01,373 INFO [server-work-thread-11]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:01,873 INFO [server-work-thread-11]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:02,374 INFO [server-work-thread-9]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:02,874 INFO [server-work-thread-9]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:03,374 INFO [server-work-thread-13]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:03,874 INFO [server-work-thread-14]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:04,375 INFO [server-work-thread-15]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:04,875 INFO [server-work-thread-15]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:05,376 INFO [server-work-thread-16]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:05,876 INFO [server-work-thread-20]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:06,374 INFO [server-work-thread-1]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:06,875 INFO [server-work-thread-19]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:07,376 INFO [server-work-thread-18]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:07,876 INFO [server-work-thread-4]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:08,376 INFO [server-work-thread-3]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:08,876 INFO [server-work-thread-2]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:09,377 INFO [server-work-thread-2]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:09,876 INFO [server-work-thread-4]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:10,377 INFO [server-work-thread-4]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:10,878 INFO [server-work-thread-3]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:11,378 INFO [server-work-thread-18]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:11,878 INFO [server-work-thread-7]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:12,379 INFO [server-work-thread-7]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:12,879 INFO [server-work-thread-2]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:13,378 INFO [server-work-thread-8]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:13,879 INFO [server-work-thread-8]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:14,379 INFO [server-work-thread-12]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:14,879 INFO [server-work-thread-5]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:15,380 INFO [server-work-thread-10]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:15,880 INFO [server-work-thread-10]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:16,379 INFO [server-work-thread-18]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:16,880 INFO [server-work-thread-18]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:17,379 INFO [server-work-thread-6]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:17,880 INFO [server-work-thread-17]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:18,380 INFO [server-work-thread-11]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:18,881 INFO [server-work-thread-11]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:19,381 INFO [server-work-thread-17]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:19,881 INFO [server-work-thread-17]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:20,381 INFO [server-work-thread-6]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:20,881 INFO [server-work-thread-9]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:21,381 INFO [server-work-thread-9]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:21,884 INFO [server-work-thread-13]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:22,382 INFO [server-work-thread-14]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:22,882 INFO [server-work-thread-15]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:23,382 INFO [server-work-thread-15]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:23,883 INFO [server-work-thread-15]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:24,383 INFO [server-work-thread-14]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:24,883 INFO [server-work-thread-16]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:25,383 INFO [server-work-thread-10]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:25,885 INFO [server-work-thread-20]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:26,384 INFO [server-work-thread-20]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:26,884 INFO [server-work-thread-19]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:27,384 INFO [server-work-thread-1]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:27,884 INFO [server-work-thread-4]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:28,384 INFO [server-work-thread-4]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:28,885 INFO [server-work-thread-3]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:29,386 INFO [server-work-thread-7]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:29,885 INFO [server-work-thread-2]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:30,385 INFO [server-work-thread-12]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:30,885 INFO [server-work-thread-12]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:31,385 INFO [server-work-thread-10]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:31,886 INFO [server-work-thread-8]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:32,386 INFO [server-work-thread-1]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:32,886 INFO [server-work-thread-5]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:33,388 INFO [server-work-thread-20]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:33,886 INFO [server-work-thread-6]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:34,389 INFO [server-work-thread-6]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:34,887 INFO [server-work-thread-5]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:35,388 INFO [server-work-thread-5]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:35,888 INFO [server-work-thread-1]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:36,388 INFO [server-work-thread-20]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:36,888 INFO [server-work-thread-4]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:37,388 INFO [server-work-thread-18]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:37,888 INFO [server-work-thread-2]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:38,389 INFO [server-work-thread-18]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:38,890 INFO [server-work-thread-18]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:39,389 INFO [server-work-thread-11]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:39,891 INFO [server-work-thread-11]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:40,390 INFO [server-work-thread-17]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:40,890 INFO [server-work-thread-13]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:41,391 INFO [server-work-thread-9]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:41,891 INFO [server-work-thread-10]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:42,391 INFO [server-work-thread-15]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:42,893 INFO [server-work-thread-15]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:43,392 INFO [server-work-thread-16]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:43,894 INFO [server-work-thread-14]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:44,393 INFO [server-work-thread-19]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:44,894 INFO [server-work-thread-4]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:45,393 INFO [server-work-thread-20]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:45,893 INFO [server-work-thread-20]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:46,393 INFO [server-work-thread-14]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:46,893 INFO [server-work-thread-1]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:47,393 INFO [server-work-thread-1]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:47,893 INFO [server-work-thread-6]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:48,393 INFO [server-work-thread-3]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:48,893 INFO [server-work-thread-7]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:49,394 INFO [server-work-thread-7]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:49,894 INFO [server-work-thread-12]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:50,394 INFO [server-work-thread-12]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:50,894 INFO [server-work-thread-8]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:51,395 INFO [server-work-thread-8]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:51,895 INFO [server-work-thread-3]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:52,394 INFO [server-work-thread-5]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:52,894 INFO [server-work-thread-2]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:53,395 INFO [server-work-thread-2]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:53,895 INFO [server-work-thread-18]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:54,395 INFO [server-work-thread-18]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:54,895 INFO [server-work-thread-11]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:55,396 INFO [server-work-thread-7]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:55,896 INFO [server-work-thread-1]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:56,396 INFO [server-work-thread-17]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:56,896 INFO [server-work-thread-13]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:57,396 INFO [server-work-thread-9]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:57,896 INFO [server-work-thread-6]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:58,397 INFO [server-work-thread-13]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:58,897 INFO [server-work-thread-10]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:59,397 INFO [server-work-thread-15]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:03:59,897 INFO [server-work-thread-16]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:00,398 INFO [server-work-thread-19]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:00,898 INFO [server-work-thread-4]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:01,399 INFO [server-work-thread-9]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:01,898 INFO [server-work-thread-10]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:02,398 INFO [server-work-thread-15]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:02,898 INFO [server-work-thread-16]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:03,399 INFO [server-work-thread-20]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:03,899 INFO [server-work-thread-20]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:04,400 INFO [server-work-thread-20]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:04,899 INFO [server-work-thread-4]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:05,401 INFO [server-work-thread-14]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:05,900 INFO [server-work-thread-6]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:06,401 INFO [server-work-thread-15]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:06,900 INFO [server-work-thread-12]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:07,400 INFO [server-work-thread-8]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:07,900 INFO [server-work-thread-5]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:08,400 INFO [server-work-thread-13]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:08,901 INFO [server-work-thread-13]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:09,401 INFO [server-work-thread-5]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:09,901 INFO [server-work-thread-3]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:10,402 INFO [server-work-thread-3]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:10,902 INFO [server-work-thread-2]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:11,402 INFO [server-work-thread-18]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:11,902 INFO [server-work-thread-11]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:12,402 INFO [server-work-thread-7]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:12,905 INFO [server-work-thread-7]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:13,402 INFO [server-work-thread-17]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:13,903 INFO [server-work-thread-1]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:14,403 INFO [server-work-thread-19]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:14,905 INFO [server-work-thread-19]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:15,406 INFO [server-work-thread-10]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:15,903 INFO [server-work-thread-9]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:16,404 INFO [server-work-thread-9]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:16,906 INFO [server-work-thread-9]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:17,405 INFO [server-work-thread-1]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:17,907 INFO [server-work-thread-1]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:18,406 INFO [server-work-thread-16]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:18,904 INFO [server-work-thread-13]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:19,405 INFO [server-work-thread-13]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:19,905 INFO [server-work-thread-20]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:20,406 INFO [server-work-thread-4]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:20,906 INFO [server-work-thread-14]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:21,406 INFO [server-work-thread-6]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:21,906 INFO [server-work-thread-11]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:22,406 INFO [server-work-thread-8]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:22,906 INFO [server-work-thread-18]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:23,406 INFO [server-work-thread-18]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:23,906 INFO [server-work-thread-8]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:24,406 INFO [server-work-thread-15]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:24,909 INFO [server-work-thread-15]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:25,410 INFO [server-work-thread-17]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:25,910 INFO [server-work-thread-7]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:26,409 INFO [server-work-thread-2]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:26,909 INFO [server-work-thread-12]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:27,410 INFO [server-work-thread-5]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:27,910 INFO [server-work-thread-2]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:28,410 INFO [server-work-thread-3]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:28,910 INFO [server-work-thread-19]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:29,410 INFO [server-work-thread-10]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:29,911 INFO [server-work-thread-3]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:30,411 INFO [server-work-thread-3]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:30,911 INFO [server-work-thread-3]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:31,411 INFO [server-work-thread-10]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:31,911 INFO [server-work-thread-10]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:32,412 INFO [server-work-thread-2]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:32,912 INFO [server-work-thread-9]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:33,412 INFO [server-work-thread-11]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:33,912 INFO [server-work-thread-1]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:34,412 INFO [server-work-thread-16]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:34,912 INFO [server-work-thread-12]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:35,413 INFO [server-work-thread-13]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:35,912 INFO [server-work-thread-1]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:36,413 INFO [server-work-thread-1]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:36,913 INFO [server-work-thread-20]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:37,413 INFO [server-work-thread-20]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:37,913 INFO [server-work-thread-20]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:38,414 INFO [server-work-thread-4]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:38,914 INFO [server-work-thread-3]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:39,413 INFO [server-work-thread-14]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:39,914 INFO [server-work-thread-6]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:40,416 INFO [server-work-thread-18]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:40,915 INFO [server-work-thread-5]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:41,414 INFO [server-work-thread-4]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:41,916 INFO [server-work-thread-8]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:42,415 INFO [server-work-thread-7]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:42,916 INFO [server-work-thread-4]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:43,415 INFO [server-work-thread-15]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:43,915 INFO [server-work-thread-17]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:44,416 INFO [server-work-thread-12]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:44,916 INFO [server-work-thread-6]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:45,417 INFO [server-work-thread-6]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:45,917 INFO [server-work-thread-14]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:46,416 INFO [server-work-thread-16]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:46,917 INFO [server-work-thread-16]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:47,420 INFO [server-work-thread-19]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:47,919 INFO [server-work-thread-10]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:48,421 INFO [server-work-thread-12]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:48,920 INFO [server-work-thread-4]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:49,419 INFO [server-work-thread-4]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:49,920 INFO [server-work-thread-4]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:50,436 INFO [server-work-thread-1]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:50,937 INFO [server-work-thread-2]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:51,435 INFO [server-work-thread-14]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:51,934 INFO [server-work-thread-14]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:52,435 INFO [server-work-thread-14]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:52,935 INFO [server-work-thread-3]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:53,435 INFO [server-work-thread-2]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:53,937 INFO [server-work-thread-8]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:54,436 INFO [server-work-thread-9]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:54,936 INFO [server-work-thread-11]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:55,436 INFO [server-work-thread-13]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:55,937 INFO [server-work-thread-2]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:56,437 INFO [server-work-thread-2]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:56,937 INFO [server-work-thread-13]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:57,438 INFO [server-work-thread-2]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:57,937 INFO [server-work-thread-13]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:58,437 INFO [server-work-thread-13]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:58,937 INFO [server-work-thread-5]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:59,438 INFO [server-work-thread-5]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:04:59,938 INFO [server-work-thread-20]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:00,438 INFO [server-work-thread-20]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:00,938 INFO [server-work-thread-18]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:01,438 INFO [server-work-thread-18]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:01,940 INFO [server-work-thread-7]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:02,439 INFO [server-work-thread-15]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:02,939 INFO [server-work-thread-9]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:03,439 INFO [server-work-thread-17]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:03,939 INFO [server-work-thread-6]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:04,439 INFO [server-work-thread-16]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:04,940 INFO [server-work-thread-10]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:05,439 INFO [server-work-thread-19]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:05,940 INFO [server-work-thread-19]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:06,440 INFO [server-work-thread-6]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:06,940 INFO [server-work-thread-12]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:07,440 INFO [server-work-thread-4]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:07,940 INFO [server-work-thread-1]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:08,440 INFO [server-work-thread-3]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:08,941 INFO [server-work-thread-14]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:09,441 INFO [server-work-thread-8]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:09,941 INFO [server-work-thread-20]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:10,442 INFO [server-work-thread-20]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:10,941 INFO [server-work-thread-14]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:11,442 INFO [server-work-thread-14]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:11,942 INFO [server-work-thread-8]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:12,442 INFO [server-work-thread-3]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:12,942 INFO [server-work-thread-1]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:13,442 INFO [server-work-thread-4]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:13,943 INFO [server-work-thread-12]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:14,442 INFO [server-work-thread-20]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:14,943 INFO [server-work-thread-20]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:15,444 INFO [server-work-thread-6]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:15,943 INFO [server-work-thread-18]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:16,443 INFO [server-work-thread-11]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:16,944 INFO [server-work-thread-2]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:17,443 INFO [server-work-thread-20]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:17,944 INFO [server-work-thread-20]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:18,444 INFO [server-work-thread-11]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:18,944 INFO [server-work-thread-11]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:19,444 INFO [server-work-thread-18]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:19,944 INFO [server-work-thread-13]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:20,445 INFO [server-work-thread-13]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:20,945 INFO [server-work-thread-5]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:21,446 INFO [server-work-thread-5]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:21,945 INFO [server-work-thread-20]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:22,446 INFO [server-work-thread-20]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:22,946 INFO [server-work-thread-7]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:23,446 INFO [server-work-thread-18]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:23,946 INFO [server-work-thread-15]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:24,446 INFO [server-work-thread-9]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:24,946 INFO [server-work-thread-12]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:25,446 INFO [server-work-thread-4]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:25,946 INFO [server-work-thread-1]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:26,447 INFO [server-work-thread-3]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:26,947 INFO [server-work-thread-3]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:27,447 INFO [server-work-thread-8]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:27,948 INFO [server-work-thread-8]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:28,449 INFO [server-work-thread-14]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:28,955 INFO [server-work-thread-17]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:29,448 INFO [server-work-thread-11]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:29,949 INFO [server-work-thread-11]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:30,449 INFO [server-work-thread-16]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:30,948 INFO [server-work-thread-10]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:31,449 INFO [server-work-thread-19]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:31,949 INFO [server-work-thread-12]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:32,449 INFO [server-work-thread-6]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:32,949 INFO [server-work-thread-6]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:33,449 INFO [server-work-thread-2]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:33,949 INFO [server-work-thread-13]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:34,451 INFO [server-work-thread-13]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:34,951 INFO [server-work-thread-18]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:35,451 INFO [server-work-thread-5]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:35,951 INFO [server-work-thread-20]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:36,451 INFO [server-work-thread-20]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:36,951 INFO [server-work-thread-7]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:37,452 INFO [server-work-thread-15]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:37,952 INFO [server-work-thread-15]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:38,452 INFO [server-work-thread-15]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:38,952 INFO [server-work-thread-9]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:39,452 INFO [server-work-thread-10]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:39,954 INFO [server-work-thread-16]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:40,453 INFO [server-work-thread-4]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:40,953 INFO [server-work-thread-1]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:41,453 INFO [server-work-thread-1]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:41,953 INFO [server-work-thread-10]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:42,456 INFO [server-work-thread-3]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:42,954 INFO [server-work-thread-12]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:43,453 INFO [server-work-thread-8]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:43,954 INFO [server-work-thread-8]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:44,454 INFO [server-work-thread-8]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:44,954 INFO [server-work-thread-12]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:45,454 INFO [server-work-thread-7]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:45,955 INFO [server-work-thread-17]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:46,454 INFO [server-work-thread-17]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:46,972 INFO [server-work-thread-17]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:47,469 INFO [server-work-thread-17]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:47,969 INFO [server-work-thread-5]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:48,471 INFO [server-work-thread-17]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:48,970 INFO [server-work-thread-5]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:49,469 INFO [server-work-thread-10]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:49,970 INFO [server-work-thread-10]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:50,472 INFO [server-work-thread-7]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:50,970 INFO [server-work-thread-12]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:51,473 INFO [server-work-thread-8]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:51,972 INFO [server-work-thread-8]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:52,473 INFO [server-work-thread-9]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:52,971 INFO [server-work-thread-14]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:53,470 INFO [server-work-thread-12]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:53,971 INFO [server-work-thread-12]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:54,471 INFO [server-work-thread-7]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:54,971 INFO [server-work-thread-7]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:55,471 INFO [server-work-thread-5]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:55,971 INFO [server-work-thread-11]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:56,472 INFO [server-work-thread-11]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:56,971 INFO [server-work-thread-19]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:57,472 INFO [server-work-thread-2]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:57,972 INFO [server-work-thread-10]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:58,472 INFO [server-work-thread-10]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:58,972 INFO [server-work-thread-6]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:59,474 INFO [server-work-thread-2]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:05:59,973 INFO [server-work-thread-18]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:06:00,473 INFO [server-work-thread-18]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:06:00,974 INFO [server-work-thread-13]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:06:01,473 INFO [server-work-thread-20]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:06:01,973 INFO [server-work-thread-19]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:06:02,474 INFO [server-work-thread-16]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:06:02,973 INFO [server-work-thread-1]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:06:03,473 INFO [server-work-thread-15]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:06:03,973 INFO [server-work-thread-4]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:06:04,474 INFO [server-work-thread-4]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:06:04,974 INFO [server-work-thread-15]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:06:05,474 INFO [server-work-thread-15]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:06:05,974 INFO [server-work-thread-3]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:06:06,474 INFO [server-work-thread-3]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:06:06,974 INFO [server-work-thread-17]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:06:07,474 INFO [server-work-thread-8]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:06:07,975 INFO [server-work-thread-8]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:06:08,475 INFO [server-work-thread-9]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:06:08,975 INFO [server-work-thread-9]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:06:09,475 INFO [server-work-thread-17]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:06:09,976 INFO [server-work-thread-17]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:06:10,475 INFO [server-work-thread-14]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:06:10,976 INFO [server-work-thread-14]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:06:11,476 INFO [server-work-thread-12]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:06:11,976 INFO [server-work-thread-7]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:06:12,476 INFO [server-work-thread-5]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:06:12,976 INFO [server-work-thread-5]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:06:13,477 INFO [server-work-thread-11]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:06:13,977 INFO [server-work-thread-10]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:06:14,477 INFO [server-work-thread-6]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:06:14,977 INFO [server-work-thread-6]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:06:15,477 INFO [server-work-thread-2]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:06:15,977 INFO [server-work-thread-2]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:06:16,477 INFO [server-work-thread-18]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:06:16,977 INFO [server-work-thread-18]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:06:17,478 INFO [server-work-thread-13]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:06:17,978 INFO [server-work-thread-19]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:06:18,478 INFO [server-work-thread-20]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:06:18,978 INFO [server-work-thread-20]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:06:19,478 INFO [server-work-thread-7]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:06:19,978 INFO [server-work-thread-7]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:06:20,479 INFO [server-work-thread-12]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:06:20,979 INFO [server-work-thread-12]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:06:21,479 INFO [server-work-thread-11]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:06:21,979 INFO [server-work-thread-3]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:06:22,479 INFO [server-work-thread-3]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:06:22,979 INFO [server-work-thread-12]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:06:23,480 INFO [server-work-thread-12]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:06:23,980 INFO [server-work-thread-7]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:06:24,480 INFO [server-work-thread-16]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:06:24,980 INFO [server-work-thread-10]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:06:25,480 INFO [server-work-thread-10]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:06:25,980 INFO [server-work-thread-16]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:06:26,480 INFO [server-work-thread-16]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:06:26,980 INFO [server-work-thread-7]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:06:27,481 INFO [server-work-thread-1]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:06:27,982 INFO [server-work-thread-4]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:06:28,481 INFO [server-work-thread-1]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:06:28,981 INFO [server-work-thread-7]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:06:29,481 INFO [server-work-thread-16]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:06:29,981 INFO [server-work-thread-12]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:06:30,482 INFO [server-work-thread-15]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:06:30,981 INFO [server-work-thread-15]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:06:31,482 INFO [server-work-thread-8]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:06:31,982 INFO [server-work-thread-10]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:06:32,482 INFO [server-work-thread-9]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:06:32,982 INFO [server-work-thread-17]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:06:33,482 INFO [server-work-thread-9]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:06:33,982 INFO [server-work-thread-9]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:06:34,483 INFO [server-work-thread-10]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:06:34,983 INFO [server-work-thread-17]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:06:35,483 INFO [server-work-thread-14]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:06:35,984 INFO [server-work-thread-1]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:06:36,483 INFO [server-work-thread-5]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:06:36,983 INFO [server-work-thread-11]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:06:37,484 INFO [server-work-thread-11]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:06:37,986 INFO [server-work-thread-14]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:06:38,485 INFO [server-work-thread-12]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:06:38,984 INFO [server-work-thread-3]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:06:39,487 INFO [server-work-thread-3]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:06:39,985 INFO [server-work-thread-6]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:06:40,485 INFO [server-work-thread-8]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:06:40,987 INFO [server-work-thread-8]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:06:41,487 INFO [server-work-thread-2]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:06:41,985 INFO [server-work-thread-20]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:06:42,486 INFO [server-work-thread-16]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:06:42,987 INFO [server-work-thread-15]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:06:43,488 INFO [server-work-thread-18]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:06:43,991 INFO [server-work-thread-13]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:06:44,491 INFO [server-work-thread-19]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:06:44,992 INFO [server-work-thread-4]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:06:45,494 INFO [server-work-thread-20]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:06:45,993 INFO [server-work-thread-7]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:06:46,497 INFO [server-work-thread-7]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:06:46,996 INFO [server-work-thread-1]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:06:47,496 INFO [server-work-thread-1]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:06:47,996 INFO [server-work-thread-20]	new segment meta info, currentTerm=3, votedFor=3, firstLogIndex=1
+2025-01-28 00:06:48,497 IN

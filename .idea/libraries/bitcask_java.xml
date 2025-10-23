@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="bitcask-java">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/distribute-java-cluster/lib/bitcask-java.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

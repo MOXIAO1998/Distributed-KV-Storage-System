@@ -1,0 +1,46 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/distribute-java-cluster/env/example3/lib/log4j-slf4j-impl-2.9.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/distribute-java-cluster/env/example3/lib/jprotobuf-1.11.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/distribute-java-cluster/env/example3/lib/protostuff-core-1.0.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/distribute-java-cluster/env/example3/lib/leveldb-api-0.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/distribute-java-cluster/env/example3/lib/brpc-java-2.5.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/distribute-java-cluster/env/example3/lib/commons-pool2-2.4.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/distribute-java-cluster/env/example3/lib/guava-21.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/distribute-java-cluster/env/example3/lib/commons-logging-1.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/distribute-java-cluster/env/example3/lib/snappy-java-1.1.7.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/distribute-java-cluster/env/example3/lib/protobuf-java-2.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/distribute-java-cluster/env/example3/lib/log4j-api-2.9.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/distribute-java-cluster/env/example3/lib/protostuff-runtime-1.0.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/distribute-java-cluster/env/example3/lib/btree4j-0.9.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/distribute-java-cluster/env/example3/lib/javassist-3.22.0-CR1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/distribute-java-cluster/env/example3/lib/distribute-java-cluster-1.9.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/distribute-java-cluster/env/example3/lib/commons-io-2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/distribute-java-cluster/env/example3/lib/protobuf-java-format-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/distribute-java-cluster/env/example3/lib/log4j-1.2.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/distribute-java-cluster/env/example3/lib/rocksdbjni-5.1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/distribute-java-cluster/env/example3/lib/ant-launcher-1.9.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/distribute-java-cluster/env/example3/lib/protoparser-3.1.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/distribute-java-cluster/env/example3/lib/commons-collections4-4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/distribute-java-cluster/env/example3/lib/raft-java-core-1.9.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/distribute-java-cluster/env/example3/lib/netty-all-4.1.42.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/distribute-java-cluster/env/example3/lib/log4j-core-2.9.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/distribute-java-cluster/env/example3/lib/gson-2.8.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/distribute-java-cluster/env/example3/lib/cglib-3.2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/distribute-java-cluster/env/example3/lib/raft-java-example-1.9.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/distribute-java-cluster/env/example3/lib/commons-cli-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/distribute-java-cluster/env/example3/lib/commons-lang3-3.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/distribute-java-cluster/env/example3/lib/slf4j-api-1.7.25.jar!/" />
+      <root url="jar://$PROJECT_DIR$/distribute-java-cluster/env/example3/lib/protostuff-collectionschema-1.0.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/distribute-java-cluster/env/example3/lib/protostuff-api-1.0.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/distribute-java-cluster/env/example3/lib/distribute-java-core-1.9.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/distribute-java-cluster/env/example3/lib/ant-1.9.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/distribute-java-cluster/env/example3/lib/lombok-1.18.22.jar!/" />
+      <root url="jar://$PROJECT_DIR$/distribute-java-cluster/env/example3/lib/asm-5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/distribute-java-cluster/env/example3/lib/leveldb-0.12.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

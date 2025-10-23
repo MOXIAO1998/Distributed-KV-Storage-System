@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="distribute-java-core-1.9.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/distribute-java-core/target/distribute-java-core-1.9.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
